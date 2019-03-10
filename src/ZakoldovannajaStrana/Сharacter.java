@@ -8,14 +8,15 @@ public abstract class Сharacter {
     private int wisdom;
     private int composition;
     private int courage;
-//    greatsword ???
+    //    weapon ???
+    //    armor ???
     private int capacity;
-    private int riskPoint;
     private int defenceClass;
-//    magic&stuff ???
+    //    magic&stuff ???
     private int level;
-//    animals ???
+    //    animals ???
     private int gamePoint;
+    private int riskPoint;
 
 
 }
