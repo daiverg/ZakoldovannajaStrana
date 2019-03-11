@@ -1,4 +1,4 @@
-package magicworld;
+package magicworld.model;
 
 public abstract class Сharacter {
 
