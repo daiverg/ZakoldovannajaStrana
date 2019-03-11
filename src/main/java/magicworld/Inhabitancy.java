@@ -1,4 +1,4 @@
-package zakoldovannajastrana;
+package magicworld;
 
 public abstract class Inhabitancy {
 }
