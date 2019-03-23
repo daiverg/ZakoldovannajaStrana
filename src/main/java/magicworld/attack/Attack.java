@@ -1,5 +1,5 @@
 package magicworld.attack;
 
 public interface Attack {
-    float basic(float factor);
+    float basicAttack(float factor);
 }

@@ -13,9 +13,11 @@ public abstract class Monster {
     private int chanceRetreat;
     private int aggression;
     private MagicAttackType magicAttack;
-    private Float protectionChance;
+    private float protectionChance;
 
-    public Monster(String name, int defense, float health, int moral, float attack, int cost, int chanceRetreat, int aggression, MagicAttackType magicAttack, Float protectionChance) {
+    public Monster(String name, int defense, float health, int moral, float attack,
+                   int cost, int chanceRetreat, int aggression, MagicAttackType magicAttack,
+                   float protectionChance) {
         this.name = name;
         this.defense = defense;
         this.health = health;
