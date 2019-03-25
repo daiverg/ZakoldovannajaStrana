@@ -1,4 +1,5 @@
 package magicworld.generator;
+
 import magicworld.model.Monster;
 
 import java.util.HashMap;
